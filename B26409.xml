@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>That the northern counties which abound in antiquities and ancient gentry, may no longer be bury'd in silence</title>
+            <author>Machell, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26409</idno><idno type="EEBO-CITATION">31355799</idno>
+  <idno type="VID">205918</idno>
+  <idno type="EEBO-PROQUEST">2248541958</idno>
+  
+            <idno type="STC">Wing M127B</idno>
+            <idno type="OCLC">31355799</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205918)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1746:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>That the northern counties which abound in antiquities and ancient gentry, may no longer be bury'd in silence</title>
+                  <author>Machell, Thomas.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>H. Hall,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Machell by Wing (2nd ed.)</note>
+                  <note>Imprint from Wing (2nd ed.)</note>
+                  <note>Imperfect: creased, and with print show-through, and slight loss of text.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Historiography --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History, Local --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205918:1"/>
+            <head>That the Northern Counties which abound in Antiquities <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Ancient Gentry, may no longer be bury'd in Silence</head>
+            <head type="sub">
+               <hi>Information is desir'd concerning the following Queries as they lye in order,</hi> viz. <hi>either.</hi>
+            </head>
+            <p>
+               <hi>By</hi>
+               <list>
+                  <item>1. Report and <hi>Tradition.</hi>
+                  </item>
+                  <item>2. Evidence or <hi>Record.</hi>
+                  </item>
+                  <item>3. <hi>Experience</hi> or Know<g ref="char:EOLhyphen"/>ledge of the present Age.</item>
+               </list> noting them with
+<list>
+                  <item>1. <hi>T.</hi>
+                  </item>
+                  <item>2. <hi>R.</hi>
+                  </item>
+                  <item>3. <hi>E.</hi>
+                  </item>
+               </list> before the Answer.</p>
+            <p>ANd it being design'd for the Honor of your Parish among others, your outmost Endeavours are desir'd in or<g ref="char:EOLhyphen"/>der to a true Information. Which may easily be procur'd by calling some of your Ancient men (who have gon Procession or know the Boundaries of your Parish,) And the Lord or Balive, with some of the Tenents (of good Repute, Knowledge and Honesty) in particular Lordships: from whose mouths you may please to write your Answer on a sheet of paper, folded (as this) with margins on both sides. And to give the more Authority to the work, the Names of those from whom you receiv'd your informations may be return'd at the Conclusion of the Accounts of their Respective Parishes, Lordships, Villages &amp;c. And it is to be vvished that the Minister, and Church-wardens or some of the Parish would subscribe their names to the General Account of the Parish: And the Lord (or his Balive, Steward &amp;c.) with some of the Tenents the Accounts, concerning their Respective Lord-ships.</p>
+            <div n="1" type="chapter">
+               <head>Chap. 1. Queries concerning the Parish in General.</head>
+               <p n="1">1. The name of the Parish, &amp; why so call'd? how written in ancient Records? In what Diocese, Barony, Hundred or Ward it is said to lye? How is it bounded &amp; divided from other Parishes on the E. W. N. &amp; South &amp;c? by what Rivers, Hedges, Walls, Cause-ways, or common and well known Land-markes, Meets and Boundaries &amp;c. or are they (or any of them) Litigious or Doubtfull?</p>
+               <p n="2">2. What form and figure does it most resemble. as Square, Oblong, Oval, Triangular, &amp;c. with the Length and Breadth in the largest parts of it, nameing the places where you begin and end your computation, as also where they lye, E. W. N. or South, and the circumference (by moderate Computation) if you can guess at it;</p>
+               <p n="3">3. What the Quality of the Soyl in general<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; as clay, mold, sand, gravel? and of what sort. Red, yellow, blew, black, white, &amp;c. And if it be stony, of what kind, as Lime-stone, &amp;c. Also whether is it for the most part Arable pasture, meadow or wood-land? is it very fertile, barren or indifferent? Also what sort of mines, quarries. fuell. &amp;c. doth your parish afford? At what distance do you fetch your fircing? what plenty of it? what general Customs, as Rush-bearing, Hollyes, Bonfires &amp;c? what games, sports &amp;c. and when celebrated?</p>
+               <p n="4">4. The name of the Church. Why so call'd, to what Saint dedicated? near what Saints day do you keep your Feast or Wake? what manner of building is it, great or smal; Elegant or mean? how many Rows of Pillars? hath it a Spire, Square-steeple, or neither? how many Bells? when and by whom founded, endowd, rebuilt, or extraordinarily repair'd? what Chanteries or Oratories in it, with their Foundation, Dedication, Endowment and Dissolution? Item, what monuments &amp; monumental Inscriptions with coats of Arms &amp;c. of Nobility and Gentry? what witty strange and uncouth Epitaphs either in the Church (1. Body. 2. Chancell) or without it, whether on the walls, or in the Church-yard? <hi>Be pleas'd to draw them out or describe them according to their Figure &amp; Colors, as well as you can.</hi> What number and names of Chappels belonging to the Church or Parish?</p>
+               <p n="5">5. Whether your Parish be a Vicaridge, Parsonage, or both? An Impropriation, or not? if it be, who is Impropriator? and what Allowance to the Vicar or Curate? whether hath it Tythes in kind or not? what value is it of by common Estimation? vvhat succession of Patronage? and how transferr'd from one family to another? with the name and Habitation of the present Patron.</p>
+               <p n="6">6. The Parsonage, or Vicaridge-house in or near to what Town or Village? at what end or side of the same E. W. N. or South? or how far distant otherwise from it? by what name &amp; whence so call'd? how writ in antient Records? of what sort the building fair, mean or indifferent; wood, clay, brick or stone? slated or not? and in what repair? how situated? High or Low; on the top, side, or at the bottom of an hill? By what Springs, or Ponds, Rivers, (Navigab<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, or otherwise) with what Commodities as mills, fish, fowl, and the sorts they afford? also near or upon what great Road? &amp; how far distant from any of them, E.W.N or South? how far from the nearest Chappel, Church, Parish-church, Market<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? what Gardens, Orchards, Dove-coats, Warrens, Parks, Forests, Woods, (Standing or lately cut down) with other Perquisits belonging unto it or are there any such near at hand (tho belonging unto
+<pb n="2" facs="tcp:205918:2"/> others) which render the place more Commodious or pleasant? what kind, and plenty of fuel? and from whence brought? Item when and by whom was it built, mended, rebuilt, or extraordinarily repair'd and upon what occasions? (And if it be a Mannor House? what Rent doth it pay, and what Courts are there kept?)</p>
+               <p>Wat Remarkabl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> about it either within or without?</p>
+               <p>* <hi>Within,</hi> as <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cient In captions, Coats of Armes in Glass, Wood or Stone.</p>
+               <p>* <hi>Without,</hi> as Fortifications, Bulwarks and Trenches round or square; places where battles have been fought, or, other Accidents have happen'd, Heaps of Stone or Earth trench'd, about in manner of a Ring or otherwise; Mounts of War, ancient Ruines; Beacons; Coyns digg'd up; with other Rarities of what kind soever; as springs cold, hot, Me<g ref="char:EOLhyphen"/>dicinal, Bituminous, Petrifying &amp;c.</p>
+               <p n="7">7. How much Glebe belonging unto it; with the Quantity of an Acre by the account of your Parish? the Quality of the Soyl, viz. of what sort for the most part, Arable, &amp;c. asking and answering the same Questions as in Query the 3d. What Woods, Forrests &amp;c? asking and answering the same Questions as in Qu: 4th of the 3d. Chapt.</p>
+               <p>And what Priviledge extraordinary your Ministers hath? What notab<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Remarque of Antiquity upon the Glebe, as Fortifications, &amp;c. see above in Query 6th at the word <hi>without,</hi> and be pleased to answer those Questi<g ref="char:EOLhyphen"/>ons. &amp;c.</p>
+               <p n="8">8. Hovv many Lordships or Mannors in the Parish which you are <hi>desir'd onely to enumerate and write down their Names; alwaies observing to put the first where the Parish-Church stands, if it happen to be one.</hi>
+               </p>
+               <p n="9">9. Informers Names; and their Information confirm'd by the <hi>Subscription of the Minister and Church-Wardens, if it may be had.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>Chap. II</hi> Concerning every particular Lordship enquire of the Lord, Steward, Balive, or experienced Tenents</head>
+               <p n="1">1. The name of the Mannor or Lordship; hovv vvritten in ancient Records? hovv at present? and vvhence de<g ref="char:EOLhyphen"/>riv'd? In vvhat Barony, Ward, or Hundred? Hovv bounded vvith other Lordships?</p>
+               <p n="2">2. What Form and Figure &amp;c. asking and answering the same Questions as above Query 2d.</p>
+               <p n="3">3. What the Quality of the soyl &amp;c. asking and answering as above in Queries 3d. to vvhich adde the measure of an Acre vvith the yearly value of the best, vvorst, and middle sort of
+<list>
+                     <item>Arable.</item>
+                     <item>Pasture.</item>
+                     <item>Meadovv.</item>
+                  </list> excluding the Commons, Moors and Fells.</p>
+               <p n="4">4. What general and Remarkable Customes of the Lordships? and hovv many free-holds?</p>
+               <p n="5">5. Hovv, and of vvhom doth the Lord hold the Mannor? and by vvhat service of the King in Capite, or some Castle or Barony? And if so, of vvhat Castle, or Barony? by Escuage, Knights-Service, or Cornage? and vvhat Rents or Acknovvledgments doth he pay? vvhen, and to vvhom?</p>
+               <p n="7">7. What priviledges hath he, as vvaifes Strayes, boons, &amp;c. and vvhat sort of Finable Rents, fines certaine or uncertaine? Green-hevv, &amp;c (or are they bought off or belonging to others) vvhat Courts doth or may he keep? as Boron, Leet, &amp;c. and vvhere?</p>
+               <p>Concerning the Lords privileges vvhen you have got his Information, be pleas'd to enquire also of some of the Tenents for Confirmation, lest he pretend to more than is his right.</p>
+               <p n="6">6. The mannor house, vvhat Rent pays it, and vvhat Court may be holden at it? In or near to vvhat tovvn or village is it and so on, asking the same Questions vvhich occur in <hi>Qu.</hi> 6th. Concerning <hi>Parsonage or Vicaridge-houses</hi> In cap. 1. vide.</p>
+               <p n="7">7. Hovv many Demaines belong to it vvith the Quality of the Land &amp;c. Ansvvering the Questions in Query the 3d of cap. 1. Its peculiar priviledges; and vvhat is remarkable therein; as Fortifications? &amp;c. <hi>answering the sam<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Questions as in Query</hi> 6th <hi>Chap.</hi> 1. <hi>at the word</hi> without.</p>
+               <p n="8">8. Who the ancient, modern, and present Proprietors, and vvhen and hovv they came unto it? And for the pre<g ref="char:EOLhyphen"/>sent Proprietors especially.) What coats of Arms do they bear? What number of Evidences have they belonging to the family? vvith the date of the ancientest. What Quality are they of; as Earls, Lords, Knights, Esquires, Gentlemen? And vvhen the first of any of Those vvere knovvn in their Family? What matches out of it (either by sons or daughters) into other families, vvith the time vvhen, and place vvhere they liv'd? <hi>Item,</hi> vvhat Pedi<g ref="char:EOLhyphen"/>gree do they shew, vvith a Copy of it; at least an account of the first and last Generation in it, according to Date; or vvhere it may be seen? and if they have none, an account may suffice for three or fower Generations (dovvn to themselves, their Wives and Children;) of their Marches and Issue, vvith the Age, birth and buriall of every one of them, as near as may be. N. <hi>but if they have enter'd their Pedigrees in Mr</hi> Dugdales <hi>Visitation</hi> 1664. <hi>(which Book I can have the use of at any time) they need not give any further account concerning their families than what hath been since.</hi>
+               </p>
+               <p n="9">9. Hovv many Tovvns, Villages, Constable-vvicks, Hamlets, &amp;c. are contain'd in the Lordship? <hi>(which onely enumerate, putting that first where the Mannor house stands. And then in particular</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>Chap. 3.</hi> Concerning Every City, Town, Village, Hamlet, &amp;c.</head>
+               <p n="1">1. The name of the Place, modern, and ancient out of Records; also vvhence deriv'd? the distance from the
+<pb n="3" facs="tcp:205918:2"/> nearest Chappell, Church, Parish-Church, Market? hovv situate for traffique? hovv for pleasure? viz. high <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lovv, &amp;c. <hi>answering the same Questions, as in Query</hi> 6th. <hi>of Chap.</hi> 1.</p>
+               <p n="2">2. When and by vvhom built, and repaired? vvith the notable accidents and Calamities vvhich have happen'd thereto by fire, vvater, svvord, famine, Pestilence? &amp; vvhen? And if <hi>It be a City; or Market Town;</hi> vvhat streets have been formerly, or are novv in it? vvith their names and Etymolog<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, as much as may be. Whether a Borough, Corporation, or neither? When the first Charter granted? vvith an Extract of vvhat great Privi<g ref="char:EOLhyphen"/>ledges it formerly hath, or at present does enjoy; as vvaifes, Strayes, felons goods, Markets, Faires? Hovv many Burgesses they send to Parliament? (their names in succession if it may be had; or at least the Names of the present Burgesses) hovv is it govern'd, as by Mayor, Balives, &amp;c. and vvhat other officers and Attendants, vvith the Ensign of Magistracie carry'd before Him? What is the Tovvn-Seal, and Arms? vvith the succession of your Mayors and Bailives, as far as Record and Knovvledge can <hi>supply.</hi>
+               </p>
+               <p>
+                  <hi>But whether soever it be,</hi> viz. <hi>Market Town or Village &amp;c. you are desir'd further to enquire as followeth; &amp;c.</hi>
+               </p>
+               <p n="2">2. What places remarkable in or about it, as Churches, Chappels, Monasteries, Hospitals, Colledges, Scholes, Mout-hals, Correction-Houses, Prisons, Crosses, Bridges, (vvhether standing or demolish'd) vvith the places or streets vvh re? of Every of vvhich in particular and according to order, <hi>Foundation, Dedication, Endowment, Dissolution;</hi> vvith Armes &amp;c. <hi>asking and answering the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me Questions, as Concerning Churches Ch.</hi> 1. <hi>Qu:</hi> 4. Of eve<g ref="char:EOLhyphen"/>ry particular Church, Chappel &amp;c. And remember to annex the stipend or Allovvance to Chaplains or Readers from the Parish &amp;c. as also the names and succession of such, (so far as is possible) as have bin M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sters and Gover<g ref="char:EOLhyphen"/>nors of any of the other places vvhich are of Note, and require Government — Item vvhat Castles, Tovvres, Halls, and o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her houses of Gen<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lemen of Quality? Whether standing or Ruinous? of vvhch in particular <hi>as<g ref="char:EOLhyphen"/>king &amp;c. The same Questions, as in Query</hi> 6th <hi>of Ch.</hi> 1. <hi>concerning the Parsonage-house scil.</hi> What its name &amp;c. <hi>But if the Manor or Parsonage-house chance to be one of those houses of Note, it may suffice only to Name it, as having spoken of it more at large in its proper place.</hi> It. vvhat men of great Eminence for Arts, Arms, o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blood? a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Doctors, Bishops, Authors of Books, famous Lawyers, Judges, Serjeants at Lavv, Noble Warriors, Generals; &amp;c. Kings, Earles, Princes, Lords, &amp;c. Have any such bin born, bred or Buried in your Tovvn? vvith the place vvhere It. What famous Acts done by Archers? vvhat by vvitches, Spirits and Conjurers, vvhich are ovvn'd to be true, and are very remarkable? othervvise none of them. —It. vvhat Fortifications, &amp;c. <hi>Answering the same Questions, as in Qu:</hi> 6. <hi>Ch:</hi> 1. <hi>of the word</hi> Without, <hi>or as in the next following Query at the place marked Thus</hi> *</p>
+               <p n="4">4. What Fells, Moors, and Commons (vvith stint, or vvithout) belonging to the Village or Tovvn &amp;c, and hovv far distant? What profits and Commodities (beside pasture) do they afford? as Fern or Brackens, heath or Ling, furrs or whins, turf or Peat? * What Woods, Forrests, Chaces, Parkes, Warrens, Groves, novv in being or lately destroy'd? <hi>But if any be spoken of with the mannor house, only mention them here.</hi> —It. vvhat Springs Cold, or hott, Medicinal, Petrifying, or Bituminous? What Ponds, Tarns, Lakes, Rivers? vvith the sorts of Fish and Fovvl they afford. And vvho reaps the benefit? — It. What Quarries, Mines, Pitts. &amp;c. of Marble, Black, vvhite, or Gray? Jeat, Precious Stone; Limestone, hevving-stone; Milstone; slate, (vvhite red, or blevv;) Coal Gravel; Lead; Tin; Iron, Brasse, Copper, Silver, Gold, &amp;c. — It. What Fair there<g ref="char:EOLhyphen"/>upon? vvhen kept? Who has the profits? — It. What Horse-Races? vvhere? for vvhat prize? by vvhom first appointed, and hovv long ago? It. What memorable places vvhere Battles have been fought? Round heaps of Stone, or Earth cast up in Hills, trench'd round about, or othervvise? What Fortifications, Camps? &amp;c. An<g ref="char:EOLhyphen"/>svvering the same Questions, as in Chap. 1 Qu: 6. at the vvord <hi>Without</hi> — It. What accidents and strange Occurrences have happen'd thereabout? With other Notable Remarks of vvhat kind soever. <hi>And what you can say of any of them by your own knowledge, Report, or otherwise. Referring each thing to its proper head as near as you can.</hi>
+               </p>
+               <p n="5">5. Hovv many Freeholders belonging to it, <hi>(or if a Borough, how many Burgers, or what fee-farm Rent doth it pay, and to whom?)</hi> What other sorts of Tenants in it? at vvhose Courts do they suit and service? By vvhat Tenure do they hold? as soccage, Border-service, &amp;c. or hovv? in vvhat manner are they admitted unto their Estates? and hovv do they passe or Convey them avvay? as by surrender and admittance in Court, Copy of Court-Roll, vvill, or Deed? What Rents do they pay to the Lord of the mannor, or unto others? And vvhat sort of Fines (Certain or uncertain) vvith other sort of Duties; as Oxgeld, green-hevv, Reliefs, Heriots, &amp;c? What services do they, not mention'd before <hi>amongst the Lordships Priviledges Chap.</hi> 2d. <hi>Qu:</hi> 5th.</p>
+               <p>— Do they pay any things to any other Lord than the Lord of the mannor? or have any of them purchas'd their Fines and Services? if so, vvhen, and of vvhom? and vvhat their tenure is novv call'd?</p>
+               <p>— Have they any extraordinary Priviledge or Custom in the place, (not mention'd before amongst those of the mannor in general) vvhereby any benefit doth accrue to themselves, their Widdovvs or Children?</p>
+               <p>
+                  <hi>When You have got the Information of Tenants concerning Priviledges: be pleas'd to inquire of the Lord, or his Steward for Confirmation, lest they pretend to what is not their right.</hi>
+               </p>
+               <p n="6">6. Informers Names. 7th. Confirmation of Lord and Tenents by Subscription. 8th. What Notable Proverbs, or peculiar expressions are us'd in the Parish, Lordship or Village? 9th. The Names and Course of Every <hi>Ri<g ref="char:EOLhyphen"/>ver</hi> or <hi>Beck</hi> in the Parish, vvith all its heads vvhence it springs? What vvay it runns E. W. North. or South? and the Parishes or Lordships it runns by or through? also the Tovvns, Halls, or Gentlemens Houses it visits by the Way, and hovv far it leaves them (or any of them) on the E. W. N. or South? The number of Mills and Bridges upon it? The sorts of Fish in it? Lastly vvhere it takes the Sea, or loses it self in some other River
+<pb n="4" facs="tcp:205918:3"/> or Lake? 11. The high or great-Roads vvhich go through your Parish; Whence they come? To vvhat place they go, and vvhere they end? With the Parishes, Lordships &amp;c. they passe by or through? Also Gentlemens houses or Notable Antiquities vvhich occure in, or near unto them. <hi>Of all these</hi> (or as many as you <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n) <hi>Information is desir'd. And you may please to return your Answer, together with the Paper of Queries, as soon as possibly you can to</hi>
+               </p>
+               <p>
+                  <add>Thomas Machell of Cra<g ref="char:EOLhyphen"/>canthorpe in Westm<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>land. A.M. and Fel<g ref="char:EOLhyphen"/>low of Queens Coll. in Oxon. <date>1. Jan. 1676-7.</date>
+                  </add>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
